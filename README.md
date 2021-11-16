@@ -1,8 +1,7 @@
 **EXPERIENCE**
 
-**ACCENTURE TECHNOLOGY 
+**ACCENTURE TECHNOLOGY
 (ACQUISITION FROM AIG SHARED SERVICES, MALAYSIA IN 2021)
-**
 Aug 2019 - Present                          Head of Solutions Delivery (APAC)
 
 My primary role is as Head of Solutions Delivery for APAC region. Overseeing team of Compute Architects in multiple IT domains. I am responsibility in infrastructure design, introduction to new technologies, analyzing business requirements for IT modernization, Cyber Security and transformation activities in the region based on Enterprise Architecture practices, for hybrid cloud and traditional datacenter infrastructure.
